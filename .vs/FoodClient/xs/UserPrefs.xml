@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{5F56CD92-26A4-4AF7-A6D2-23665832C06F}|Default">
+  <MonoDevelop.Ide.ItemProperties.FoodClient PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FoodClient/ClientApp/src/components/FoodModal.js">
+    <Files>
+      <File FileName="FoodClient/Program.cs" />
+      <File FileName="FoodClient/ClientApp/public/index.html" />
+      <File FileName="FoodClient/ClientApp/src/App.js" />
+      <File FileName="FoodClient/ClientApp/src/index.js" />
+      <File FileName="FoodClient/ClientApp/src/components/FoodModal.js" Line="10" Column="11" />
+      <File FileName="FoodClient/ClientApp/src/components/FoodCard.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FoodClient" expanded="True">
+            <Node name="FoodClient" selected="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
